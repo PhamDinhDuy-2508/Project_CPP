@@ -1,0 +1,4 @@
+﻿  processing.cpp
+c:\users\a\source\repos\consoleapplication21\consoleapplication21\processing.cpp(234): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\a\source\repos\consoleapplication21\consoleapplication21\processing.cpp(238): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication21.vcxproj -> C:\Users\a\source\repos\ConsoleApplication21\Debug\ConsoleApplication21.exe
